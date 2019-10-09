@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+        {% if page.hero %}
+          <section class="row hero">
+            <div class="hero-area">
+              {%- if page.hero.link %}
+              <a href="{{ page.hero.link }}">
+              {% endif %}              
+              <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}">               
+              <div class="text">
+                <h2>{{ page.hero.headline }}</h2>
+                <p>{{ page.hero.description }}</p>
+              </div>
+              {%- if page.hero.link %}
+              </a>
+              {% endif %}
+            </div>              
+          </section>            
+        {% endif %}
+
+          <div class="row">
+            <div class="main-content">
+              {{ content }}
+            </div>
+          </div>
+
+         <div class="row three flex separate dark">
+
+          <div class="wrap">
+             <div class="block profile-block" id="profile">
+               <h3 class="block-header">Introducing Cynthia K. Larive</h3>
+               <div class="inner">                                    
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/-YcTctiMrZw" frameborder="0"
+                 allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+                 allowfullscreen></iframe>
+               </div> 
+             </div>
+           </div>
+         
+            <div class="wrap">
+              <div class="block quote-block" id="profile">
+                <h3 class="block-header">Read the announcement</h3>
+                <div class="inner">                  
+                  <a href="/announcements/janet-napolitano/">
+                  <blockquote>"I believe the breadth and scope of Dr. Larive’s academic credentials and knowledge, combined with her incredible dedication and passion for UC, make her the ideal visionary to lead UC Santa Cruz." <span>–Janet Napolitano</span></blockquote>
+                  </a>                  
+                </div>
+              </div>
+            </div>
+
+          </div>

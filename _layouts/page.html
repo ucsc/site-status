@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% if page.related %}
+  {% assign page_id = "sprflt" %}
+  {% assign page_class = "left-column" %}
+{% else %}
+  {% assign page_id = "noflt" %}
+  {% assign page_class = "single-column" %}
+{% endif %}
+<div class="row" id="{{ page_id }}" class="{{ page_class }}">
+  <div class="main-content" id="main" role="main">
+    
+    <h1 class="page-title" id="title">{{ page.title }}</h1>
+
+    {% if page.image %}
+    <div class="banners bannerBox" id="bannerBox">
+      <img alt="{{ page.image.text }}" id="banner" src="{{ page.image.url }}">
+      {% if page.image.description %}
+      <p class="caption">{{ page.image.description }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="content contentBox">
+      {{ content }}
+    </div>
+    
+  </div>
+  
+  {% if page.related %}                  
+    <div class="sidebar" id="subNav" role="navigation">
+            
+    <ul>
+    {% for link in page.related %}
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>      
+    {% endfor %}
+    </ul>
+  
+    </div>
+  {% endif %}
+
+</div>
