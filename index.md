@@ -1,5 +1,5 @@
 ---
-title: "www.ucsc.edu is currently down"
+title: "ucsc.edu is currently down"
 layout: page
 ---
 
