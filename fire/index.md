@@ -4,13 +4,14 @@ layout: page
 sidebar: sidebars/2020-fire.html
 active: true
 incident:
+  color: "#32cd32" # Change to #e02e02 for red
   header: "August 2020 wildfires"
   description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, Santa Clara, and neighboring counties. This event has resulted in multiple evacuations and air quality concerns."
 ---
 
-<section style="border: 4px solid #32cd32; padding: 0; margin: 0 0 2em 0;">
+<section style="border: 4px solid {{ page.incident.color }}; padding: 0; margin: 0 0 2em 0;">
   
-  <h2 style="margin: 0 0 .5em 0; background-color: #32cd32; line-height: 1; padding: .5em .5em .45em .5em; color: white;"><i class="far fa-bell"></i> Campus status</h2>
+  <h2 style="margin: 0 0 .5em 0; background-color: {{ page.incident.color }}; line-height: 1; padding: .5em .5em .45em .5em; color: white;"><i class="far fa-bell"></i> Campus status</h2>
 
   <div style="padding: .05em 2em .5em 2em;">
 
