@@ -5,8 +5,8 @@ layout: page
 
 {% assign active_incidents = site.pages | where: "active", true %}
 {% for p in active_incidents %}
-  <h2><a href="{{ p.url }}">{{ p.incident.header }}</a></h2>
-  <p>{{ p.incident.description }}</p>
+  <h2><a href="{{ p.url }}">{{ p.incident.name }}</a></h2>
+  <p>{{ p.description }}</p>
 {% endfor %}
 
 ****

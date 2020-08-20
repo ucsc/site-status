@@ -5,8 +5,8 @@ sidebar: sidebars/2020-fire.html
 active: true
 incident:
   color: "#32cd32" # Change to #e02e02 for red
-  header: "August 2020 wildfires"
-  description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, Santa Clara, and neighboring counties. This event has resulted in multiple evacuations and air quality concerns."
+  name: "August 2020 wildfires"
+description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, Santa Clara, and neighboring counties. This event has resulted in multiple evacuations and air quality concerns."
 ---
 
 <section style="border: 4px solid {{ page.incident.color }}; padding: 0; margin: 0 0 2em 0;">
