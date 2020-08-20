@@ -21,7 +21,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 Students and employees living in UC Santa Cruz housing should be ready to evacuate. CalFire issued an evacuation warning this afternoon.
 
-**An evacuation center for UC Santa Cruz students and employees living on campus** is open at the Coconut Grove at the Boardwalks (use entrance B) at 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove.
+**An evacuation center for UC Santa Cruz students and employees living on campus** is open at the Coconut Grove at the Boardwalk (use entrance B) at 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove.
 
 **Evacuation centers for the broader Santa Cruz community are open** at Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville, and Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz.
 
