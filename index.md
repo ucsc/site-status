@@ -1,8 +1,14 @@
 ---
-title: "ucsc.edu is currently down"
+title: "Current active incidents"
 layout: page
 ---
 
-If you are seeing this page, the UC Santa Cruz website is down. Leave this page open and updates will appear here as they become available. You can also check for updates on our [Twitter]({{ site.social.twitter }}), [Facebook]({{ site.social.facebook }}), and [Instagram]({{ site.social.instagram }}) accounts.
+{% assign active_incidents = site.pages | where: "active", true %}
+{% for p in active_incidents %}
+  <h2><a href="{{ p.url }}">{{ p.incident.header }}</a></h2>
+  <p>{{ p.incident.description }}</p>
+{% endfor %}
 
-Be aware that other campus websites may also be unavailable.
+****
+
+You can also check for campus status updates on our [Twitter]({{ site.social.twitter }}), [Facebook]({{ site.social.facebook }}), and [Instagram]({{ site.social.instagram }}) accounts.

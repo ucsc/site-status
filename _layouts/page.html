@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.related %}
+{% if page.sidebar %}
   {% assign page_id = "sprflt" %}
   {% assign page_class = "left-column" %}
 {% else %}
@@ -11,7 +11,7 @@ layout: default
 {% endif %}
 <div class="row" id="{{ page_id }}" class="{{ page_class }}">
   <div class="main-content" id="main" role="main">
-    
+
     <h1 class="page-title" id="title">{{ page.title }}</h1>
 
     {% if page.image %}
@@ -26,18 +26,12 @@ layout: default
     <div class="content contentBox">
       {{ content }}
     </div>
-    
+
   </div>
-  
-  {% if page.related %}                  
+
+  {% if page.sidebar %}
     <div class="sidebar" id="subNav" role="navigation">
-            
-    <ul>
-    {% for link in page.related %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>      
-    {% endfor %}
-    </ul>
-  
+      {% include {{ page.sidebar }} %}
     </div>
   {% endif %}
 
