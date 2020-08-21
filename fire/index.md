@@ -19,28 +19,23 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-Students and employees living in UC Santa Cruz housing should be ready to evacuate. CalFire issued an evacuation warning this afternoon.
+**Based on a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html), ALL employees and students living in campus housing must evacuate.** Everyone must immediately leave the UC Santa Cruz residential campus and be prepared to not return for at least two weeks. UC Santa Cruz Police Officers will be going door to door to evacuate those remaining on campus.
 
-**An evacuation center for UC Santa Cruz students and employees living on campus** is open at the Cocoanut Grove at the Boardwalk (use entrance B) at 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Cocoanut Grove.
+People will also not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by me or my designee.
 
-**Evacuation centers for the broader Santa Cruz community are open** at Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville, and Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz.
+Any person who enters the residential campus, a closed off area or remains in the area after being ordered to evacuate may be found guilty of a criminal offense.
 
-To reach the evacuation center at the Boardwalk, individuals may drive, walk, bicycle, or use a bus, if available. Campus transit shuttles or Metro route 19 will be available for those on campus to get to the Boardwalk. Please go to the nearest loop transit stop to board a shuttle or bus.
+**An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
 
-If an evacuation order is issued, traffic may be congested. Campus community members who do not need to go to the Boardwalk should leave Santa Cruz on Highway 1 south.
+To reach the evacuation center at the Boardwalk, individuals may drive, walk, bicycle, or use a bus, if available. Please exit the main entrance at Bay Street and High Street to leave the campus. 
 
-Only use 911 for true emergencies.
+Campus transit shuttles or Metro route 19 are available for those on campus to get to the Boardwalk.  Please go to the nearest loop transit stop to board a shuttle or bus.
 
-It is critical to decrease the number of people on campus that will have to be evacuated if and when a mandatory evacuation is issued for our campus. It also decreases pressure points on roadways. There are already numerous roadway closures in the area.
+**Evacuation centers for the broader Santa Cruz community are open** at Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville, and Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz.  
 
-UC Santa Cruz asks the following:
+Because of this evacuation order, traffic may be congested. Campus community members who do not go to the Boardwalk should leave Santa Cruz on Highway 1 south. The best way to leave the Westside is taking Bay Street to Mission Street to Highway 1. 
 
-- **If you live on campus (both students and employees) and have a safe place to go, we ask that you relocate now.**
-- If you live on campus and do not have an alternative location to evacuate to, we have staged the Santa Cruz Boardwalk area as the official evacuation location for those who live on campus and have nowhere else to go. As space is limited, we need to prioritize that population for use of this evacuation location. Beginning at 2:00 pm today, those campus residents who do not have alternative evacuation locations can begin to relocate there. At this point the evacuation is voluntary, but at any moment the campus evacuation could become mandatory. Check in at this site will take place at Entrance B across from the Parking Lot at the Boardwalk. Campus officials will direct you on next steps once you arrive. Additional information with useful tips and information on transportation will be coming out from campus housing to our students and employees who live on campus. Please ensure you have a University ID or other form of identification with you if you relocate to the UC Santa Cruz evacuation location.
-- If you do not live on campus, please follow the evacuation orders and directions provided by first responders for your exact location.
-- County and fire officials advise that people who have to evacuate the area may not be able to return to their homes through the end of August or potentially the first week in September. Individual circumstances will differ, but keep this in mind when you are evacuating.
-
-**Once an evacuation order becomes mandatory, the campus will declare a campus emergency. At that point evacuations are not voluntary.**  
+Only use 911 for true emergencies. 
 
 This continues to be a rapidly changing situation, and we encourage everyone to stay safe and informed. We ask each of you to monitor conditions that impact you locally as each of your situations will differ.
 
