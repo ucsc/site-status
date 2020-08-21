@@ -43,8 +43,6 @@ This continues to be a rapidly changing situation, and we encourage everyone to 
 - CHP is [sharing information about road closures.](https://twitter.com/CHPscrz)
 - Santa Cruz and San Mateo counties have a [real-time evacuation map](https://www.smco.community.zonehaven.com/).
 
-The residential campus, Coastal Science Campus, Scotts Valley offices, and Westside Research park do not have an imminent fire threat, though the evacuation area continues to expand and part of our main campus could be in the next evacuation zone. You are advised to be prepared in the event that your area is directed to evacuate.
-
 ### Campus updates
 
 {% for m in site.data.messages %}
