@@ -19,7 +19,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-**Based on a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html), ALL employees and students living in campus housing must evacuate.** Everyone must immediately leave the UC Santa Cruz residential campus and be prepared to not return for at least two weeks. UC Santa Cruz Police Officers will be going door to door to evacuate those remaining on campus.
+**Based on a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html) and a subsequent [evacuation order](https://news.ucsc.edu/2020/08/images/calfire-order.pdf) from CalFire, ALL employees and students living in campus housing must evacuate.** Everyone must immediately leave the UC Santa Cruz residential campus and be prepared to not return for at least two weeks. UC Santa Cruz Police Officers will be going door to door to evacuate those remaining on campus.
 
 People will also not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by me or my designee.
 
