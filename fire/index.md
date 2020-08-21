@@ -19,7 +19,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-As of Friday morning, the fire is about a mile north of upper campus. There is no fire activity on campus or in the City of Santa Cruz, and we hopee that all the campus actions have been taken in an abundance of caution.
+As of Friday morning, the fire is about a mile north of upper campus. There is no fire activity on campus or in the City of Santa Cruz, and we hope that all the campus actions have been taken in an abundance of caution.
 
 This morning’s news reports indicate that approximately 50,000 acres have burned so far and the fire is 0% contained. The fire continues to advance, and much of what will happen next depends on weather conditions such as wind direction and speed. UC Santa Cruz will continue to provide updates and information about the campus on this page. 
 
