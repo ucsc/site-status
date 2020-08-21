@@ -38,6 +38,7 @@ This continues to be a rapidly changing situation, and we encourage everyone to 
 - Cal Fire is providing updates through its [Twitter account](https://twitter.com/CALFIRECZU)  and residents can sign up to [receive its email updates.](https://tinyurl.com/czulightning)
 - CHP is [sharing information about road closures.](https://twitter.com/CHPscrz)
 - Santa Cruz and San Mateo counties have a [real-time evacuation map](https://www.smco.community.zonehaven.com/).
+
 ### Campus updates
 
 {% for m in site.data.messages %}
