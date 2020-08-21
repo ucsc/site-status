@@ -19,6 +19,14 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
+As of Friday morning, the fire is about a mile north of upper campus. There is no fire activity on campus or in the City of Santa Cruz, and campus leaders hope that all our activities have been taken in an abundance of caution. 
+
+The residential campus has been completely evacuated and remains closed. 
+
+This morning’s news reports indicate that approximately 50,000 acres have burned so far and the fire is 0% contained. The fire continues to advance, and much of what will happen next depends on weather conditions such as wind direction and speed. UC Santa Cruz will continue to provide updates and information about the campus on this page. 
+
+Chancellor Cynthia Larive [thanked everyone involved in the fire response](https://news.ucsc.edu/2020/08/ucsc-fire-update.html). 
+
 **Based on a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html) and a subsequent [evacuation order](https://news.ucsc.edu/2020/08/images/calfire-order.pdf) from CalFire, ALL employees and students living in campus housing must evacuate.** Everyone must immediately leave the UC Santa Cruz residential campus and be prepared to not return for at least two weeks. UC Santa Cruz Police Officers will be going door to door to evacuate those remaining on campus.
 
 People will also not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by me or my designee.
