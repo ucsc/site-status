@@ -52,28 +52,12 @@ The residential campus, Coastal Science Campus, Scotts Valley offices, and Wests
 
 ### Campus updates
 
-#### Thursday, Aug. 20
-
-- [Evacuation warning](https://news.ucsc.edu/2020/08/evacuation-warning.html)
-- [Mandatory research cessation and information about securing research materials](https://news.ucsc.edu/2020/08/mandatory-research-cessation.html)
-- [Initiating the next steps in our fire response - beginning next stages of voluntary evacuations](https://news.ucsc.edu/2020/08/initiating-next-steps-in-our-fire-response.html)
-- [The impact of fires on our community](https://news.ucsc.edu/2020/08/impact-of-fires-on-our-community.html)
-- [Support during difficult times](https://news.ucsc.edu/2020/08/support-during-difficult-times.html)
-- [Impact of fires on instruction](https://news.ucsc.edu/2020/08/impact-of-fires-on-instruction.html)
-- [Temporary cessation of non-essential on-campus research activities recommended due to poor air quality and possible fire threat](https://news.ucsc.edu/2020/08/temp-cessation-of-non-essential-on-campus-research.html)
-- [Critical update on wildfires in Santa Cruz—preparation for potential evacuation](https://news.ucsc.edu/2020/08/critical-update-wildfires.html)
-
-#### Wednesday, Aug. 19
-
-- [Be prepared for possible evacuation](https://news.ucsc.edu/2020/08/prepare-evacuation-students.html)
-- [Additional support for employees impacted by wildfire evacuations](https://news.ucsc.edu/2020/08/additional-support-employees.html)
-- [Update on fires impacting our region](https://news.ucsc.edu/2020/08/update-on-fires-impact.html)
-- [Campus air quality](https://news.ucsc.edu/2020/08/campus-air-quality.html)
-
-#### Tuesday, Aug. 18
-
-- [Supporting campus community members impacted by evacuation orders](https://news.ucsc.edu/2020/08/supporting--community-members.html)
-
+{% for m in site.data.messages %}
+#### {{ m[0] | date: "%A, %b %d" }}
+  {% for l in m[1] %}
+  - [{{ l.title }}]({{ l.url }})
+  {% endfor %}
+{% endfor %}
 
 </div>
 
