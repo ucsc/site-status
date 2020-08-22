@@ -19,7 +19,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-As of Saturday morning, the fire is about a mile north of upper campus. Cal Fire crews are establishing fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+As of Saturday morning, the fire remains about a mile north of upper campus. Cal Fire crews are establishing fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
 There are approximately 63,000 acres involved, and the fire is now at 5% containment, according to [Cal Fire's latest update](https://files.constantcontact.com/13ae4c7f701/4405ecf5-a507-4f29-b307-bf7d79787d98.pdf). 
 
