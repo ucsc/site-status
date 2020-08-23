@@ -29,7 +29,14 @@ The residential campus has been completely evacuated, following a [Declaration o
 
 **An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
 
-**Evacuation centers for the broader Santa Cruz community are open** at Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville, and Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz.  
+**Evacuation centers for the broader Santa Cruz community are open** at the following locations:
+
+* Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville
+* Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz (AT CAPACITY) Seventh Day Adventist Camp Grounds, 1931 Soquel San Jose Rd (AT CAPACITY) 
+* Cabrillo College, 6500 Soquel Drive, Aptos CA
+* Santa Cruz Bible Church, 440 Frederick Street, Santa Cruz
+* Simpkins Family Swim Center, 919 17th Ave (ADA only)
+* Twin Lakes Church, 2701 Cabrillo College Drive
 
 People will not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by UCSC Chief of Police Nader Oweis or his designee.
 
