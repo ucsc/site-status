@@ -17,6 +17,7 @@ description: "How to get help if you are affected by the CZU Lightning Complex f
 ### For help with housing
 
 - Call UCSC's Employee Emergency Housing hotline: [831-531-8250](tel:831-531-8250)
+- If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
 
 ### For general help, join our Zoom room hotline
 
