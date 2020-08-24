@@ -10,14 +10,14 @@ description: "How to get help if you are affected by the CZU Lightning Complex f
 ## Students
 
 - Call Slug Support <a href="tel:831-459-7003">831-459-7003</a>
-- [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) if your home has been damaged or destroyed so we can directly support you.
+- If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
 
 ## Employees
 
 ### For urgent help with housing
 
 - Call [831-531-8250](tel:831-531-8250) if you have been evacuated or lost your home and you need immediate assistance.
-- [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) if your home has been damaged or destroyed so we can directly support you.
+- If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
 
 ### For general help, join our Zoom room
 
