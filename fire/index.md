@@ -26,6 +26,7 @@ There are approximately 78,000 acres involved, and the fire is now at 13% contai
 There is no fire activity on campus or in the City of Santa Cruz, and we hope that all the campus actions have been taken in an abundance of caution.
 
 ### Get help
+
 UC Santa Cruz has an array of support services for [employees](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html)  and [students](https://news.ucsc.edu/2020/08/you-are-not-alone.html) affected by the wildfires. 
 
 **An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
@@ -48,6 +49,7 @@ People will not be allowed to enter UC Santa Cruz residential campus because of 
 Any person who enters the residential campus, a closed off area or remains in the area after being ordered to evacuate may be found guilty of a criminal offense. Only use 911 for true emergencies. 
 
 ### Stay informed
+
 This continues to be a rapidly changing situation, and we encourage everyone to stay safe and informed. We ask each of you to monitor conditions that impact you locally as each of your situations will differ.
 
 - Cal Fire is providing updates through its [Twitter account](https://twitter.com/CALFIRECZU)  and residents can sign up to [receive its email updates.](https://tinyurl.com/czulightning)
@@ -67,16 +69,15 @@ This continues to be a rapidly changing situation, and we encourage everyone to 
 
 </section>
 
-<h2>General information</h2>
-<ul>
-<li><a href="https://www.smco.community.zonehaven.com">Evacuation map</a></li>
-<li><a href="https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/wildfire.html">Red Cross Wildfire Safety</a></li>
-<li><a href="https://twitter.com/CALFIRECZU">CalFire Twitter account</a></li>
-<li><a href="https://twitter.com/sccounty">Santa Cruz County Twitter account</a></li>
-</ul>
-<h2>Campus resources</h2>
-<ul>
-<li><a href="https://healthcenter.ucsc.edu">Student Health Center</a></li>
-<li><a href="https://caps.ucsc.edu">Counseling and Psychological Services</a></li>
-<li><a href="https://shr.ucsc.edu/benefits/eap/">Employee Assistance Program</a></li>
-</ul>
+## General information
+
+- [Evacuation map](https://www.smco.community.zonehaven.com)
+- [Red Cross Wildfire Safety](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/wildfire.html)
+- [CalFire Twitter account](https://twitter.com/CALFIRECZU)
+- [Santa Cruz County Twitter account](https://twitter.com/sccounty)
+
+## Campus resources
+
+- [Student Health Center](https://healthcenter.ucsc.edu)
+- [Counseling and Psychological Services](https://caps.ucsc.edu)
+- [Employee Assistance Program](https://shr.ucsc.edu/benefits/eap/)
