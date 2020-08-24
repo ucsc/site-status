@@ -52,6 +52,10 @@
 
 .tachyons {
 
+  h2 {
+    border-bottom: 1px dotted #ccc;
+  }
+
   a:link,
   a:visited {
     display: inline;
