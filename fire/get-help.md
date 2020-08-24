@@ -1,5 +1,5 @@
 ---
-title: "If you need help"
+title: "How to get help"
 layout: page 
 sidebar: sidebars/2020-fire.html
 description: "How to get help if you are affected by the CZU Lightning Complex fire"
@@ -9,17 +9,17 @@ description: "How to get help if you are affected by the CZU Lightning Complex f
 
 ## Students
 
-- Call Slug Support <a href="tel:831-459-4446">831-459-4446</a>
-- If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
+- Call Slug Support <a href="tel:831-459-7003">831-459-7003</a>
+- [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) if your home has been damaged or destroyed so we can directly support you.
 
 ## Employees
 
-### For help with housing
+### For urgent help with housing
 
-- Call UCSC's Employee Emergency Housing hotline: [831-531-8250](tel:831-531-8250)
-- If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
+- Call [831-531-8250](tel:831-531-8250) if you have been evacuated or lost your home and you need immediate assistance.
+- [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) if your home has been damaged or destroyed so we can directly support you.
 
-### For general help, join our Zoom room hotline
+### For general help, join our Zoom room
 
 - 8 a.m. to 5 p.m. Monday through Friday
 - Phone: 669-900-6833, Meeting ID: 878 731 3895

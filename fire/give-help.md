@@ -1,8 +1,8 @@
 ---
-title: "How to help"
+title: "How to give help"
 layout: page 
 sidebar: sidebars/2020-fire.html
-description: "How to help UCSC students and employees affected by the CZU Lightning Complex fire"
+description: "How to support UCSC students and employees affected by the CZU Lightning Complex fire"
 ---
 
 <section class="tachyons">
