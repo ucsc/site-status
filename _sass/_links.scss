@@ -1,50 +1,74 @@
 .link-list {
 
-    margin: 0;
+  margin: 0;
 
-    li {
-        list-style: none;
-        padding: 0;
-        margin: 0 0 1em 0;
-        max-width: 38em; 
-    }
+  li {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1em 0;
+    max-width: 38em;
+  }
 
-    h3 {
-        margin: .1em 0 .1em;
-        color: rgba(7, 71, 138, 1.00);
-    }
+  h3 {
+    margin: .1em 0 .1em;
+    color: rgba(7, 71, 138, 1.00);
+  }
 
-    p {
-        margin: .15em 0 .5em 0;
-    }
+  p {
+    margin: .15em 0 .5em 0;
+  }
 
-    .date {
-        font-weight: 400;
-    }
+  .date {
+    font-weight: 400;
+  }
 
-    .source {
-        font-weight: 400;
-        text-transform: uppercase;
-        letter-spacing: .08em;
-    }
+  .source {
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+  }
 
-    a:link,
-    a:visited {
-       display: block;
-       text-decoration: none;
-       color: #545454;
-       padding: .75em .5em .75em 0;
-       border-left: 4px solid transparent;
-       transition: all .4s ease-in-out;
-    } 
+  a:link,
+  a:visited {
+    display: block;
+    text-decoration: none;
+    color: #545454;
+    padding: .75em .5em .75em 0;
+    border-left: 4px solid transparent;
+    transition: all .4s ease-in-out;
+  }
 
-    a:focus,
-    a:hover,
-    a:active {
-        background-color: rgba(7, 71, 138, .15);
-        border-left: 4px solid rgba(239, 174, 46, 1.00);
-        transform: translate3d(4px, 0, 0px);
-        padding: .75em;
-        transition: all .4s ease-in-out;
-    }
+  a:focus,
+  a:hover,
+  a:active {
+    background-color: rgba(7, 71, 138, .15);
+    border-left: 4px solid rgba(239, 174, 46, 1.00);
+    transform: translate3d(4px, 0, 0px);
+    padding: .75em;
+    transition: all .4s ease-in-out;
+  }
+}
+
+
+.tachyons {
+
+  a:link,
+  a:visited {
+    display: inline;
+    text-decoration: none;
+    color: #00449E;
+    padding: 0;
+    border-bottom: 1px solid #357EDD;
+    transition: all .4s ease-in-out;
+  }
+
+  a:focus,
+  a:hover,
+  a:active {
+    background-color: #CDECFF;
+    border-bottom: 2px solid #FFB700;
+    padding: 0 0 4px 0;
+    color: #00449E;
+    transition: all .3s ease-in;
+  }
 }
