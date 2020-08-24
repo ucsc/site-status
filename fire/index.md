@@ -31,6 +31,8 @@ UC Santa Cruz has an array of support services for [employees](https://news.ucsc
 
 **An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
 
+Boardwalk parking is available for free to UCSC affiliates seeking evacuation-related services at the Cocoanut Grove. Enter the parking lot through the main Beach Street entrance, push the button, the dispenser will provide a ticket, the gate will lift, proceed into the lot. Take that ticket with you to the check-in station at the Cocoanut Grove and ask to have it validated.
+
 **Evacuation centers for the broader Santa Cruz community are open** at the following locations:
 
 * Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville
