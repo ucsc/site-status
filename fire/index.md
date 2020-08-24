@@ -25,7 +25,8 @@ There are approximately 78,000 acres involved, and the fire is now at 13% contai
 
 There is no fire activity on campus or in the City of Santa Cruz, and we hope that all the campus actions have been taken in an abundance of caution.
 
-The residential campus has been completely evacuated, following a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html) and a subsequent [evacuation order](https://news.ucsc.edu/2020/08/images/calfire-order.pdf) from CalFire. 
+### Get help
+UC Santa Cruz has an array of support services for [employees](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html)  and [students](https://news.ucsc.edu/2020/08/you-are-not-alone.html) affected by the wildfires. 
 
 **An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
 
@@ -38,10 +39,15 @@ The residential campus has been completely evacuated, following a [Declaration o
 * Simpkins Family Swim Center, 919 17th Ave (ADA only)
 * Twin Lakes Church, 2701 Cabrillo College Drive
 
+### Campus evacuated, do not try to enter
+
+The residential campus has been completely evacuated, following a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html) and a subsequent [evacuation order](https://news.ucsc.edu/2020/08/images/calfire-order.pdf) from CalFire. 
+
 People will not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by UCSC Chief of Police Nader Oweis or his designee.
 
 Any person who enters the residential campus, a closed off area or remains in the area after being ordered to evacuate may be found guilty of a criminal offense. Only use 911 for true emergencies. 
 
+### Stay informed
 This continues to be a rapidly changing situation, and we encourage everyone to stay safe and informed. We ask each of you to monitor conditions that impact you locally as each of your situations will differ.
 
 - Cal Fire is providing updates through its [Twitter account](https://twitter.com/CALFIRECZU)  and residents can sign up to [receive its email updates.](https://tinyurl.com/czulightning)
