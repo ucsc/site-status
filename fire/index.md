@@ -29,9 +29,7 @@ There is no fire activity on campus or in the City of Santa Cruz, and we hope th
 
 UC Santa Cruz has an array of support services for [employees](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html)  and [students](https://news.ucsc.edu/2020/08/you-are-not-alone.html) affected by the wildfires. 
 
-**An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Coconut Grove. 
-
-Boardwalk parking is available for free to UCSC affiliates seeking evacuation-related services at the Cocoanut Grove. Enter the parking lot through the main Beach Street entrance, push the button, the dispenser will provide a ticket, the gate will lift, proceed into the lot. Take that ticket with you to the check-in station at the Cocoanut Grove and ask to have it validated.
+**An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Cocoanut Grove. 
 
 **Evacuation centers for the broader Santa Cruz community are open** at the following locations:
 
