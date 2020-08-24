@@ -59,10 +59,14 @@ This continues to be a rapidly changing situation, and we encourage everyone to 
 ### Campus updates
 
 {% for m in site.data.messages %}
+
 #### {{ m[0] | date: "%A, %b %d" }}
-  {% for l in m[1] %}
-  - [{{ l.title }}]({{ l.url }})
-  {% endfor %}
+
+{% for l in m[1] %}
+
+- [{{ l.title }}]({{ l.url }})
+
+{% endfor %}
 {% endfor %}
 
 </div>
