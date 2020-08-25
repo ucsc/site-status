@@ -15,7 +15,9 @@ A monetary donation allows staff working directly with impacted Slugs to address
 
 ## Donating goods
 
-There has been an outpouring of support for our campus community. Below you will find information on what items would be beneficial for our Banana Slugs in need. Items donated will be distributed to students and employees who have been evacuated from their homes and are in need. Please only donate new and unused items. UC Santa Cruz is serving as the agency of distribution directly to students and employees in emergency housing. *Goods donated are not tax deductible.*
+There has been an outpouring of support for our campus community. Below you will find information on what items would be beneficial for our Banana Slugs in need. Items donated will be distributed to students and employees who have been evacuated from their homes and are in need. **Please only donate new and unused items.**
+
+UCSC is setting aside space and volunteers to help distribute donated items directly to students and employees in emergency housing. UCSC is serving as the agent of distribution only. Goods donated are not tax deductible.
 
 ### What our slugs need
 
