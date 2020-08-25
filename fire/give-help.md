@@ -47,4 +47,10 @@ At this time, we **do not need any food items or meals**.
 
 Items for donation can be dropped off at the UC Santa Cruz evacuation headquarters at the [Boardwalk Coconut Grove, 400 Beach Street, Santa Cruz, California, 95060](https://www.google.com/maps/place/Boardwalk's+Cocoanut+Grove/@36.964003,-122.0224735,17z/data=!3m1!4b1!4m5!3m4!1s0x808e6a99cbaf37ed:0x1c83b64b7da8ffb7!8m2!3d36.964003!4d-122.0202848?hl=en).
 
+****
+
+### Guidance to UC Santa Cruz departments and campus-sponsored organizations wanting to start localized efforts to support Slugs in need
+
+Guidance for campus departments and organizations that have launched or want to launch localized efforts will be posted here shortly. There are some critical things that departments should take into account when undertaking any local effort including privacy and tax implications as well as ensuring individuals know what good and services the campus operates and endorses and what we do not. When possible, departments are encouraged to direct those who want to help through the official campus mechanisms outlined above.
+
 </section>
