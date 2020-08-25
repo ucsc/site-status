@@ -53,4 +53,8 @@ Items for donation can be dropped off at the UC Santa Cruz evacuation headquarte
 
 Guidance for campus departments and organizations that have launched or want to launch localized efforts will be posted here shortly. There are some critical things that departments should take into account when undertaking any local effort including privacy and tax implications as well as ensuring individuals know what good and services the campus operates and endorses and what we do not. When possible, departments are encouraged to direct those who want to help through the official campus mechanisms outlined above.
 
+## Individual offers of housing for those in need
+
+For those who are unable to or choose not to utilize the UC Santa Cruz operated emergency housing locations, Andrea Michels, a retired UC Santa Cruz staff member, is facilitating a list to provide private offers of housing for those in need. This is not part of the official campus emergency housing program, and the campus does not inspect the homes nor does the campus review or vet those indicating they are in need.  This is a volunteer operation run outside the campus emergency housing structure. [The form for those either offering space or in need of space can be accessed  here](https://docs.google.com/forms/d/e/1FAIpQLSdtIkjCgrCqxSlLJIUK4RvLSSW5HSYi6sDRvtKkYr_YT20OmQ/viewform).
+
 </section>
