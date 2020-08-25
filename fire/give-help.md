@@ -15,8 +15,30 @@ A monetary donation allows staff working directly with impacted Slugs to address
 
 ## Donating goods and services
 
-### What is needed (and not needed)
+There has been an outpouring of support for our campus community. Below you will find information on what items would be beneficial for our Banana Slugs in need. Items donated will be distributed to students and employees who have been evacuated from their homes and are in need. Please only donate new and unused items. UC Santa Cruz is serving as the agency of distribution directly to students and employees in emergency housing. *Goods donated are not tax deductible.*
+
+### What our slugs need
+
+#### Our students need
+
+- **Clothing:** socks, underwear, t-shirts, sweatpants, sweatshirts
+- **Linens:** towels and washcloths
+- **Personal care:** Toothpaste & toothbrush, deodorant, shampoo, face wash
+- **Laundry:** detergent and dryer sheets
+- Bottled water
+
+#### In addition to the items above, our employees and students with children need
+
+- **Craft items:** paper for coloring and construction paper, stickers and stamps, glitter, glue sticks, and tape
+- **School supplies:** lined paper and pencils, crayons, markers, colored pencils, and glue sticks
+- Stuffed animals or other comfort objects
+- Kids puzzles
+- Kids masks
+- Wipes
+- Electronics: batteries and extra charging cords (mini USB in particular)
 
 ### Where to drop off donations
+
+Items for donation can be dropped off at the UC Santa Cruz evacuation headquarters at the [Boardwalk Coconut Grove, 400 Beach Street, Santa Cruz, California, 95060](https://www.google.com/maps/place/Boardwalk's+Cocoanut+Grove/@36.964003,-122.0224735,17z/data=!3m1!4b1!4m5!3m4!1s0x808e6a99cbaf37ed:0x1c83b64b7da8ffb7!8m2!3d36.964003!4d-122.0202848?hl=en).
 
 </section>
