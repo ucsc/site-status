@@ -33,12 +33,12 @@ UC Santa Cruz has an array of support services for [employees](https://news.ucsc
 
 **Evacuation centers for the broader Santa Cruz community are open** at the following locations:
 
-* Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville
-* Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz (AT CAPACITY) Seventh Day Adventist Camp Grounds, 1931 Soquel San Jose Rd (AT CAPACITY) 
-* Cabrillo College, 6500 Soquel Drive, Aptos CA
-* Santa Cruz Bible Church, 440 Frederick Street, Santa Cruz
-* Simpkins Family Swim Center, 919 17th Ave (ADA only)
-* Twin Lakes Church, 2701 Cabrillo College Drive
+- Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville
+- Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz (AT CAPACITY) Seventh Day Adventist Camp Grounds, 1931 Soquel San Jose Rd (AT CAPACITY)
+- Cabrillo College, 6500 Soquel Drive, Aptos CA
+- Santa Cruz Bible Church, 440 Frederick Street, Santa Cruz
+- Simpkins Family Swim Center, 919 17th Ave (ADA only)
+- Twin Lakes Church, 2701 Cabrillo College Drive
 
 ### Campus evacuated, do not try to enter
 
