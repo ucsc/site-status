@@ -13,7 +13,7 @@ A monetary donation allows staff working directly with impacted Slugs to address
 
 [Make a gift to the 2020 UCSC Wildfire Relief Fund](https://2020wildfirerelief.ucsc.edu/?cfpage=project&project_id=36384&t=1598299186)
 
-## Donating goods and services
+## Donating goods
 
 There has been an outpouring of support for our campus community. Below you will find information on what items would be beneficial for our Banana Slugs in need. Items donated will be distributed to students and employees who have been evacuated from their homes and are in need. Please only donate new and unused items. UC Santa Cruz is serving as the agency of distribution directly to students and employees in emergency housing. *Goods donated are not tax deductible.*
 
