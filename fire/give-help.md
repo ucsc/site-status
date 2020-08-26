@@ -51,7 +51,7 @@ Items for donation can be dropped off at the UC Santa Cruz evacuation headquarte
 
 ## Guidance to UC Santa Cruz departments and campus-sponsored organizations wanting to start localized efforts to support Slugs in need
 
-Guidance for campus departments and organizations that have launched or want to launch localized efforts will be posted here shortly. There are some critical things that departments should take into account when undertaking any local effort including privacy and tax implications as well as ensuring individuals know what good and services the campus operates and endorses and what we do not. When possible, departments are encouraged to direct those who want to help through the official campus mechanisms outlined above.
+The _How to Give Help_ webpage has been established to assist those who wish to provide support to students and employees who have been impacted by the August 2020 wildfires. Campus departments and organizations are encouraged to direct individuals to this page if they are looking for ways to help. If a campus department or organization chooses to launch a localized effort, they should follow [the important guidance outlined in this document](/fire/files/guidance-for-providing-wildfire-relief.pdf).
 
 ## Individual offers of housing for those in need
 
