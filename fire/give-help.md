@@ -7,7 +7,7 @@ description: "How to support UCSC students and employees affected by the CZU Lig
 
 <section class="tachyons">
 
-## Wildfire Relief Fund
+## Support Wildfire Relief
 
 A monetary donation allows staff working directly with impacted Slugs to address the ever-changing needs of those affected and gives UCSC the resources to assist students and employees in the long term.
 
