@@ -11,7 +11,7 @@ description: "How to support UCSC students and employees affected by the CZU Lig
 
 A monetary donation allows staff working directly with impacted Slugs to address the ever-changing needs of those affected and gives UCSC the resources to assist students and employees in the long term.
 
-[Make a gift to the 2020 UCSC Wildfire Relief Fund](https://2020wildfirerelief.ucsc.edu/?cfpage=project&project_id=36384&t=1598299186)
+[Make a gift to support 2020 UCSC Wildfire Relief](https://2020wildfirerelief.ucsc.edu/?cfpage=project&project_id=36384&t=1598299186)
 
 ## Donating goods
 
