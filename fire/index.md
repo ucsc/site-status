@@ -25,11 +25,9 @@ Chancellor Larive has amended the Aug. 20 emergency declaration so that employee
                                                         
 **Except for the people living in the employee housing communities outlined above, no one should attempt to access the residential campus, Coastal Science Campus, or Westside Research Park until directed that it is OK to do so.**
 
-As of Wednesday, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+As of Thursday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 80,100 acres involved, 538 structures have been destroyed, and the fire is now at 19% containment, according to [Cal Fire’s Wednesday morning update](https://files.constantcontact.com/13ae4c7f701/c331c72d-edd3-492f-9648-2be933b8631e.pdf).
-
-There is no fire activity on campus or in the City of Santa Cruz, and we hope that all the campus actions have been taken in an abundance of caution.
+There are approximately 81,300 acres involved, 646 structures have been destroyed, and the fire is now at 21% containment, according to [Cal Fire’s Wednesday morning update](https://files.constantcontact.com/13ae4c7f701/d553aee2-01f2-48d4-806e-d0e0bde687b7.pdf).
 
 ### Get help
 
