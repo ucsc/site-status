@@ -27,7 +27,7 @@ Chancellor Larive has amended the Aug. 20 emergency declaration so that employee
 
 As of Thursday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 81,300 acres involved, 646 structures have been destroyed, and the fire is now at 21% containment, according to [Cal Fire’s Wednesday morning update](https://files.constantcontact.com/13ae4c7f701/d553aee2-01f2-48d4-806e-d0e0bde687b7.pdf).
+There are approximately 81,300 acres involved, 646 structures have been destroyed, and the fire is now at 21% containment, according to [Cal Fire’s Thursday morning update](https://files.constantcontact.com/13ae4c7f701/d553aee2-01f2-48d4-806e-d0e0bde687b7.pdf).
 
 ### Get help
 
