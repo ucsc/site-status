@@ -21,13 +21,13 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m. on Wednesday. 
 
-Chancellor Larive has amended the Aug. 20 emergency declaration so that employees who live at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace can return to their homes tonight. The rest of the residential campus remains closed, as do the Coastal Science Campus and Westside Research Park. [Read more](https://news.ucsc.edu/2020/08/reopening-employee-housing.html).
-                                                        
-**Except for the people living in the employee housing communities outlined above, no one should attempt to access the residential campus, Coastal Science Campus, or Westside Research Park until directed that it is OK to do so.**
+Chancellor Larive has modified the Aug. 20 emergency declaration so that employees who live at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace can return to their homes and to reopen the Coastal Science Campus and the Westside Research Park. The rest of the residential campus remains closed. 
 
-As of Thursday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+**Except for the people living in the employee housing communities outlined above, no one should attempt to access the residential campus, until directed that it is OK to do so.**
 
-There are approximately 81,300 acres involved, 646 structures have been destroyed, and the fire is now at 21% containment, according to [Cal Fire’s Thursday morning update](https://files.constantcontact.com/13ae4c7f701/d553aee2-01f2-48d4-806e-d0e0bde687b7.pdf).
+As of Friday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+
+There are approximately 82,000 acres involved, 799 structures have been destroyed, and the fire is now at 26% containment, according to [Cal Fire’s Thursday morning update](https://files.constantcontact.com/13ae4c7f701/c88eb02a-cfb6-4aac-973d-2d7f293eec00.pdf).
 
 ### Get help
 
