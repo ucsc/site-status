@@ -21,9 +21,11 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m. on Wednesday. 
 
-Chancellor Larive has modified the Aug. 20 emergency declaration so that employees who live at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace can return to their homes and to [reopen the Coastal Science Campus and the Westside Research Park](https://news.ucsc.edu/2020/08/resumption-of-operations-at-select-locations.html). The rest of the residential campus remains closed. 
+**The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
-**At this time, with the exception of residents of Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace, no one should attempt to access the residential campus until informed that it is OK to do so.**
+* Coastal Science Campus
+* Westside Research Park
+* Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 
 As of Friday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
