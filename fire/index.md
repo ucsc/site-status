@@ -23,13 +23,19 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
+* Biomedical Building
+* Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
+* Early Education Services
+* Molecular Diagnostic Lab for COVID-19 testing and Sinsheimer Laboratories 
+* Provost Houses: Merrill, Oakes, and Porter Provost Houses - note that other residential areas in these colleges have not yet been released for repopulation 
+* Student Health Services
 * Coastal Science Campus
 * Westside Research Park
 * Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 
-As of Friday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+As of Saturday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 82,000 acres involved, 799 structures have been destroyed, and the fire is now at 26% containment, according to [Cal Fire’s Thursday morning update](https://files.constantcontact.com/13ae4c7f701/c88eb02a-cfb6-4aac-973d-2d7f293eec00.pdf).
+There are approximately 83,000 acres involved, 899 structures have been destroyed, and the fire is now at 29% containment, according to Cal Fire’s latests update.
 
 ### Get help
 
