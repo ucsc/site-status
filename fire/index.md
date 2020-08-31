@@ -23,15 +23,27 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
+#### Residential Campus
+* Barn H 
 * Biomedical Building
+* Communications Building
 * Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
 * Early Education Services
+* Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
+* Engineering 2 
+* Earth and Marine Sciences 
+* Jack Baskin Engineering Building
 * Molecular Diagnostic Lab for COVID-19 testing and Sinsheimer Laboratories 
-* Provost Houses: Merrill, Oakes, and Porter Provost Houses - note that other residential areas in these colleges have not yet been released for repopulation 
+
+* Natural Sciences II 
+* Physical Sciences Building
+* Provost Houses (all are now ready for use)
 * Student Health Services
+* Thimann
+
+#### Other UCSC sites
 * Coastal Science Campus
 * Westside Research Park
-* Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 
 As of Monday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
