@@ -19,7 +19,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m. on Wednesday. 
+Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m., Aug. 26. 
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
@@ -63,14 +63,6 @@ UC Santa Cruz has an array of support services for [employees](https://news.ucsc
 - Santa Cruz Bible Church, 440 Frederick Street, Santa Cruz
 - Simpkins Family Swim Center, 919 17th Ave (ADA only)
 - Twin Lakes Church, 2701 Cabrillo College Drive
-
-### Campus evacuated, do not try to enter
-
-The residential campus has been completely evacuated, following a [Declaration of Emergency by Chancellor Cynthia Larive](https://news.ucsc.edu/2020/08/chancellor-declaration.html) and a subsequent [evacuation order](https://news.ucsc.edu/2020/08/images/calfire-order.pdf) from CalFire. 
-
-People will not be allowed to enter UC Santa Cruz residential campus because of the mandatory evacuation. Access to the residential campus will be limited to first responders and those authorized by UCSC Chief of Police Nader Oweis or his designee.
-
-Any person who enters the residential campus, a closed off area or remains in the area after being ordered to evacuate may be found guilty of a criminal offense. Only use 911 for true emergencies. 
 
 ### Stay informed
 
