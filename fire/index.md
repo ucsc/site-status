@@ -33,9 +33,9 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Westside Research Park
 * Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 
-As of Saturday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+As of Monday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 83,000 acres involved, 899 structures have been destroyed, and the fire is now at 29% containment, according to Cal Fire’s latests update.
+There are approximately 84,000 acres involved, 1,361 structures have been destroyed, and the fire is now at 39% containment, according to Cal Fire’s latests update.
 
 ### Get help
 
