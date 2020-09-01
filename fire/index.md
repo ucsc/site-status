@@ -19,7 +19,7 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m., Aug. 26. Chancellor Cynthia Larive lifted the campus emergency order on Aug. 31
+Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus at 6 p.m., Aug. 26. Chancellor Cynthia Larive lifted the campus emergency order on Aug. 31. 
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
@@ -44,9 +44,9 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Coastal Science Campus
 * Westside Research Park
 
-As of Monday morning, the fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
+The fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 84,000 acres involved, 1,361 structures have been destroyed, and the fire is now at 39% containment, according to Cal Fire’s latests update.
+There are approximately 85,000 acres involved, and the fire is now at 43% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 921 residences.
 
 ### Get help
 
