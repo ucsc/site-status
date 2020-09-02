@@ -25,10 +25,6 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 #### Residential campus
 * Astronomy Labs A&B
-* McHenry Library (Instructional online education purposes only)
-* Science and Engineering Library (Instructional online education purposes only)
-* Social Sciences I
-
 * Barn H 
 * Biomedical Building
 * Communications Building
@@ -38,11 +34,14 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Engineering 2 
 * Earth and Marine Sciences 
 * Jack Baskin Engineering Building
+* McHenry Library (Instructional online education purposes only)
 * Molecular Diagnostic Lab for COVID-19 testing
-* Sinsheimer Laboratories 
 * Natural Sciences II 
 * Physical Sciences Building
 * Provost Houses (all are now ready for use)
+* Science and Engineering Library (Instructional online education purposes only)
+* Sinsheimer Laboratories 
+* Social Sciences I
 * Student Health Services
 * Thimann
 
