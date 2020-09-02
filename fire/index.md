@@ -38,7 +38,8 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Engineering 2 
 * Earth and Marine Sciences 
 * Jack Baskin Engineering Building
-* Molecular Diagnostic Lab for COVID-19 testing and Sinsheimer Laboratories 
+* Molecular Diagnostic Lab for COVID-19 testing
+* Sinsheimer Laboratories 
 * Natural Sciences II 
 * Physical Sciences Building
 * Provost Houses (all are now ready for use)
