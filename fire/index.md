@@ -51,7 +51,7 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 The fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 85,000 acres involved, and the fire is now at 43% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 921 residences.
+There are approximately 85,000 acres involved, and the fire is now at 46% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 925 residences.
 
 ### Get help
 
@@ -70,7 +70,7 @@ UC Santa Cruz has an array of support services for [employees](https://news.ucsc
 
 ### Stay informed
 
-This continues to be a rapidly changing situation, and we encourage everyone to stay safe and informed. We ask each of you to monitor conditions that impact you locally as each of your situations will differ.
+We encourage everyone to stay safe and informed. We ask each of you to monitor conditions that impact you locally as each of your situations will differ.
 
 - Cal Fire is providing updates through its [Twitter account](https://twitter.com/CALFIRECZU)  and residents can sign up to [receive its email updates.](https://tinyurl.com/czulightning)
 - CHP is [sharing information about road closures.](https://twitter.com/CHPscrz)
