@@ -29,6 +29,8 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Biomedical Building
 * Communications Building
 * Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
+* College 9/10 Dining (specific information on dining services and hours will be shared by campus dining) 
+* Crown Dining (specific information on dining services and hours will be shared by campus dining) 
 * Early Education Services
 * Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 * Engineering 2 
@@ -42,6 +44,7 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Science and Engineering Library (Instructional online education purposes only)
 * Sinsheimer Laboratories 
 * Social Sciences I
+* Social Sciences II
 * Student Health Services
 * Thimann
 
