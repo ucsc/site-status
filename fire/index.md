@@ -27,14 +27,17 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Astronomy Labs A&B
 * Barn H 
 * Biomedical Building
+* Center for Adaptive Optics
 * Communications Building
 * Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
 * College 9/10 Dining (specific information on dining services and hours will be shared by campus dining) 
 * Crown Dining (specific information on dining services and hours will be shared by campus dining) 
+* Digital Arts Research Center
 * Early Education Services
 * Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 * Engineering 2 
 * Earth and Marine Sciences 
+* Granary
 * Jack Baskin Engineering Building
 * McHenry Library (Instructional online education purposes only)
 * Molecular Diagnostic Lab for COVID-19 testing
