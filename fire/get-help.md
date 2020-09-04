@@ -27,7 +27,7 @@ description: "How to get help if you are affected by the CZU Lightning Complex f
 
 ### Other assistance
 
-Additional resources for employees, including mental and emotional support services and emergency loans and financial assistance [can be found in this campus message](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html). The campus also announced a [new vacation payout program](https://news.ucsc.edu/2020/08/new-vacation-payout-program.html) for those impacted by the wildfires.
+Additional resources for employees, including mental and emotional support services and emergency loans and financial assistance [can be found in this campus message](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html). The campus also announced a [new vacation payout program](https://news.ucsc.edu/2020/08/new-vacation-payout-program.html) for those impacted by the wildfires and a Wildfire Relief Fund.
 
 
 </section>
