@@ -57,22 +57,12 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 The fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
 
-There are approximately 85,000 acres involved, and the fire is now at 46% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 925 residences.
+There are approximately 86,000 acres involved, and the fire is now at 56% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 925 residences.
 
 ### Get help
 
 UC Santa Cruz has an array of support services for [employees](https://news.ucsc.edu/2020/08/support-services-for-employees-impacted-by-wildfires.html) and [students](https://news.ucsc.edu/2020/08/you-are-not-alone.html) affected by the wildfires. 
 
-**An evacuation center for UC Santa Cruz students and employees living on campus** is in the Cocoanut Grove at the Boardwalk (use entrance B), 400 Beach Street, Santa Cruz. Parking is in the lot adjacent to the Cocoanut Grove. 
-
-**Evacuation centers for the broader Santa Cruz community are open** at the following locations:
-
-- Santa Cruz County Fairground, 2601 E. Lake Avenue in Watsonville
-- Santa Cruz Civic Auditorium, 307 Church Street, Santa Cruz (AT CAPACITY) Seventh Day Adventist Camp Grounds, 1931 Soquel San Jose Rd (AT CAPACITY)
-- Cabrillo College, 6500 Soquel Drive, Aptos CA
-- Santa Cruz Bible Church, 440 Frederick Street, Santa Cruz
-- Simpkins Family Swim Center, 919 17th Ave (ADA only)
-- Twin Lakes Church, 2701 Cabrillo College Drive
 
 ### Stay informed
 
