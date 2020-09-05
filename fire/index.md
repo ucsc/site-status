@@ -23,12 +23,17 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
+
+
 #### Residential campus
+* Arboretum outdoor spaces
 * Astronomy Labs A&B
 * Barn H 
 * Biomedical Building
+* Carriage House
 * Center for Adaptive Optics
 * Communications Building
+* Corporate Yard
 * Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
 * College 9/10 Dining (specific information on dining services and hours will be shared by campus dining) 
 * Crown Dining (specific information on dining services and hours will be shared by campus dining) 
@@ -37,19 +42,24 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 * Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
 * Engineering 2 
 * Earth and Marine Sciences 
+* Farm outdoor spaces
 * Granary
 * Jack Baskin Engineering Building
 * McHenry Library (Instructional online education purposes only)
 * Molecular Diagnostic Lab for COVID-19 testing
+* Music Center
 * Natural Sciences II 
 * Physical Sciences Building
+* PPDO lower campus facilities
 * Provost Houses (all are now ready for use)
 * Science and Engineering Library (Instructional online education purposes only)
 * Sinsheimer Laboratories 
 * Social Sciences I
 * Social Sciences II
 * Student Health Services
+* Theater Arts Buildings
 * Thimann
+* Visual Arts Research Facility
 
 #### Other UCSC sites
 * Coastal Science Campus
