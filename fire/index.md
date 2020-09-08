@@ -23,7 +23,7 @@ Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential
 
 **The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
 
-
+*Please note:  Operational resumption may not proceed if the building has not been cleared through the COVID-19 Worksite Planning Process.*
 
 #### Residential campus
 * Arboretum outdoor spaces
