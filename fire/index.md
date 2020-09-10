@@ -19,55 +19,13 @@ description: "UC Santa Cruz continues to closely track the fires in Santa Cruz, 
 
 <b>{{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</b>
 
-Cal Fire lifted its emergency evacuation order for the UC Santa Cruz residential campus on Aug. 26. Chancellor Cynthia Larive lifted the campus emergency order on Aug. 31. 
+Effective immediately all facilities on the residential campus can resume their pre-evacuation status. The only activities that may resume are those that had been approved prior to the Aug. 20 evacuation through the [COVID-19 resumption approval process](https://recovery.ucsc.edu/). Smoke odors may still be present and air scrubbers may still be running in the hallways. Should your department need assistance with mitigating the smoke odor, please contact Environmental Health and Safety (EH&S) at ehs@ucsc.edu.
 
-**The following locations have been cleared to resume operations. Other buildings on campus remain closed. You should not attempt to access campus unless you are headed to a location that has been cleared to reopen.**
+Information specific to student on-campus housing will be sent by the housing office directly to students. 
 
-*Please note:  Operational resumption may not proceed if the building has not been cleared through the COVID-19 Worksite Planning Process.*
+As fires continue to burn throughout the region, the campus continues to track air quality, and will utilize the [UC guidance for addressing air quality](https://drive.google.com/file/d/1ZHxoXZL-NuR6SAZjkrHSP3ISewrkXGbF/view) to inform any subsequent actions we need to take. 
 
-#### Residential campus
-* Arboretum outdoor spaces
-* Astronomy Labs A&B
-* Barn H 
-* Biomedical Building
-* Carriage House
-* Center for Adaptive Optics
-* Communications Building
-* Corporate Yard
-* Cowell College Dining Facility (not open for in-person dining, only meal preparation for the county and evacuees)
-* College 9/10 Dining (specific information on dining services and hours will be shared by campus dining) 
-* Crown Dining (specific information on dining services and hours will be shared by campus dining) 
-* Digital Arts Research Center
-* Early Education Services
-* Employee housing communities at Laureate Court, Hagar Court, Ranch View Terrace, Hagar Meadow, and Cardiff Terrace
-* Engineering 2 
-* Earth and Marine Sciences 
-* Farm outdoor spaces
-* Granary
-* Jack Baskin Engineering Building
-* McHenry Library (Instructional online education purposes only)
-* Molecular Diagnostic Lab for COVID-19 testing
-* Music Center
-* Natural Sciences II 
-* Physical Sciences Building
-* PPDO lower campus facilities
-* Provost Houses (all are now ready for use)
-* Science and Engineering Library (Instructional online education purposes only)
-* Sinsheimer Laboratories 
-* Social Sciences I
-* Social Sciences II
-* Student Health Services
-* Theater Arts Buildings
-* Thimann
-* Visual Arts Research Facility
-
-#### Other UCSC sites
-* Coastal Science Campus
-* Westside Research Park
-
-The fire remains about a mile north of upper campus. Cal Fire crews have established fire lines to try and slow the spread toward the campus and the city of Santa Cruz. Conditions can change quickly, and we continue to monitor the situation closely.
-
-There are approximately 86,000 acres involved, and the fire is now at 81% containment, according to Cal Fire’s latests update. More than 1,400 structures have been destroyed including 925 residences.
+Please be mindful that due to the wildfire event and campus closure, the wildlife population on campus has increased. It's especially important to go slow on campus roadways and be aware when out on campus trails. In addition to the turkeys and deer, we have seen an increase in the coyote, fox and other species throughout the campus.
 
 ### Get help
 
