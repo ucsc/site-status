@@ -14,16 +14,9 @@ description: "How to get help if you are affected by the CZU Lightning Complex f
 
 ## Employees
 
-### For urgent help with housing
-
-- Call [831-531-8250](tel:831-531-8250) if you have been evacuated or lost your home and you need immediate assistance.
+- Email [shrfire@ucsc.edu](mailto:shrfire@ucsc.edu)
 - If your home has been damaged or destroyed, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdPuTN3EOpzgLw0gcbNI-M42eV3USpe5Wx6e90SQAztzkCSYg/viewform) so we can directly support you.
 
-### For general help, join our Zoom room
-
-- 8 a.m. to 5 p.m. Monday through Friday
-- Phone: 669-900-6833, Meeting ID: 878 731 3895
-- Web: <https://ucsc.zoom.us/j/8787313895>
 
 ### Other assistance
 
