@@ -3,10 +3,10 @@ title: "Current active incidents"
 layout: page
 ---
 
-{% assign active_incidents = site.pages | where: "active", true %}
+{% assign active_incidents = site.posts | where: "active", true %}
 {% for p in active_incidents %}
-  <h2><a href="{{ p.url }}">{{ p.incident.name }}</a></h2>
-  <p>{{ p.description }}</p>
+  <h2><a href="{% if p.incident.link %}{{ p.incident.link }}{% else %}{{ p.url }}{% endif %}">{{ p.incident.name }}</a></h2>
+  <p>{{ p.incident.description }}</p>
 {% endfor %}
 
 ****
