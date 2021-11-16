@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-collections_dir: _collections
+collections_dir: collections
 collections:
   incidents:
     label: "incidents"

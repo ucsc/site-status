@@ -1,12 +1,14 @@
 ---
-title: "Current active incidents"
+title: "Active incidents"
 layout: page
 ---
 
-{% assign active_incidents = site.posts | where: "active", true %}
+<p>Site updated: {{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</p>
+
+{% assign active_incidents = site.incidents | where: "active", true %}
 {% for p in active_incidents %}
-  <h2><a href="{% if p.incident.link %}{{ p.incident.link }}{% else %}{{ p.url }}{% endif %}">{{ p.incident.name }}</a></h2>
-  <p>{{ p.incident.description }}</p>
+  <h2><a href="{% if p.link %}{{ p.link }}{% else %}{{ p.url }}{% endif %}">{{ p.title }}</a></h2>
+  <p>{{ p.description }}</p>
 {% endfor %}
 
 ****
