@@ -68,5 +68,3 @@ We encourage everyone to stay safe and informed. We ask each of you to monitor c
 - [Student Health Center](https://healthcenter.ucsc.edu)
 - [Counseling and Psychological Services](https://caps.ucsc.edu)
 - [Employee Assistance Program](https://shr.ucsc.edu/benefits/eap/)
-
-<!-- Testing -->
