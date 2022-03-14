@@ -17,3 +17,4 @@ layout: page
 ****
 
 You can also check for campus status updates on our [Twitter]({{ site.social.twitter }}), [Facebook]({{ site.social.facebook }}), and [Instagram]({{ site.social.instagram }}) accounts.
+<!-- Hi Rob! -->
