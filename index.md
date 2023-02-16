@@ -1,9 +1,9 @@
 ---
-title: "Active incidents"
+title: "Incidents"
 layout: page
 ---
 
-<p>Site updated: {{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</p>
+<!-- <p>Site updated: {{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</p> -->
 
 {% assign active_incidents = site.incidents | where: "active", true %}
 {% for p in active_incidents %}
@@ -12,9 +12,12 @@ layout: page
   
   {{ p.excerpt }}
 
+{% else %}
+
+There are currently no major incidents or emergencies at UC Santa Cruz. In the event of an emergency, [ucsc.edu/status](http://www.ucsc.edu/status/) will be updated if there is important information to share with the campus community.
+
 {% endfor %}
 
 ****
 
-You can also check for campus status updates on our [Twitter]({{ site.social.twitter }}), [Facebook]({{ site.social.facebook }}), and [Instagram]({{ site.social.instagram }}) accounts.
-<!-- Hi Rob! -->
+You can also check for updates on our [Mastodon]({{ site.social.mastodon }}), [Instagram]({{ site.social.instagram }}), and [Facebook]({{ site.social.facebook }}) accounts.
