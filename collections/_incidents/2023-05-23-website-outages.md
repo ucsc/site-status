@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 title: "May 23, 2023 website outage"
 link: "https://its.ucsc.edu/news/outage-updates.html"
 ---
