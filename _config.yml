@@ -2,7 +2,7 @@ timezone: "America/Los_Angeles"
 title: UC Santa Cruz status
 email: publicaffairs@ucsc.edu
 description: >- # this means to ignore newlines until the next left-aligned key:
-  UC Santa Cruz status page. You can also check for updates on Mastodon, Instagram, and Facebook.
+  UC Santa Cruz status page. You can also check for updates on Instagram.
 
 social:
   twitter: https://twitter.com/ucsc

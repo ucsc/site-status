@@ -20,4 +20,4 @@ There are currently no major incidents or emergencies at UC Santa Cruz. In the e
 
 ****
 
-You can also check for updates on our [Mastodon]({{ site.social.mastodon }}), [Instagram]({{ site.social.instagram }}), and [Facebook]({{ site.social.facebook }}) accounts.
+You can also check for updates on our [Instagram]({{ site.social.instagram }}) account.
