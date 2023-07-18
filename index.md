@@ -5,6 +5,8 @@ layout: page
 
 <!-- <p>Site updated: {{ site.time | date: "%l:%M %P, %A, %b %d, %Y" }}</p> -->
 
+For website or web services outages, [check the ITS incidents page](http://slughub.ucsc.edu/its).
+
 {% assign active_incidents = site.incidents | where: "active", true %}
 {% for p in active_incidents %}
   
